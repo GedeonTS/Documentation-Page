@@ -1,0 +1,30 @@
+body{
+    display: flex;
+}
+#main-doc{
+    margin-left:200px;
+}
+#navbar{
+    width:198px;
+    height:800px;
+    margin-left: 0;
+    margin-top: 0;
+    font-family: 'lato';
+    color:gray;
+    background:yellowgreen;
+    text-decoration: none;
+    position:fixed;
+}
+.nav-link{
+    text-decoration:none ;
+    margin-bottom:10px;
+    margin-top:12px;
+    font-size:19px;
+    text-align: center;
+    
+
+h}
+header{
+    font-size:20;
+    color:blue;
+}
